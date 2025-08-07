@@ -45,47 +45,8 @@ const majd = {
 
 ---
 
-### 🚀 Projects Showcase
-
-<table>
-  <tr>
-    <td width="120" valign="top" align="center">
-      <img src="https://images.unsplash.com/photo-1506765515384-028b60a970df?auto=format&fit=crop&w=120&q=80" alt="Portfolio Screenshot" style="border-radius:8px;" />
-    </td>
-    <td valign="top" style="padding-left: 10px;">
-      <h4>Personal Portfolio</h4>
-      Responsive website built with HTML, CSS & JavaScript.<br />
-      <a href="https://github.com/majdjadalhaq/portfolio" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Portfolio Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="120" valign="top" align="center" style="padding-top:20px;">
-      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=120&q=80" alt="Task Manager Screenshot" style="border-radius:8px;" />
-    </td>
-    <td valign="top" style="padding-left: 10px; padding-top: 20px;">
-      <h4>Task Manager App</h4>
-      REST API backend built with Node.js for managing tasks.<br />
-      <a href="https://github.com/majdjadalhaq/task-manager" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Task Manager Repo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="120" valign="top" align="center" style="padding-top:20px;">
-      <img src="https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=120&q=80" alt="Weather Dashboard Screenshot" style="border-radius:8px;" />
-    </td>
-    <td valign="top" style="padding-left: 10px; padding-top: 20px;">
-      <h4>Weather Dashboard</h4>
-      JS app fetching live weather data from API.<br />
-      <a href="https://github.com/majdjadalhaq/weather-dashboard" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Weather Dashboard Repo" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+/badge/Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Task Manager Repo" />
+ 
 ---
 
 ### 📈 GitHub Stats & Activity
