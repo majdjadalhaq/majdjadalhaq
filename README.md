@@ -42,10 +42,6 @@ const majd = {
 | VS Code      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% 💻                               |
 | Git & GitHub | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  🐙                               |
 | Node.js      | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0%   🌐                                |
-
----
-
-/badge/Repo-GitHub-blue?style=for-the-badge&logo=github" alt="Task Manager Repo" />
  
 ---
 
