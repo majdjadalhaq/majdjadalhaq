@@ -90,13 +90,13 @@ Live MERN-stack platform serving real buyers and sellers. Built in a 4-person Ag
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=majdjadalhaq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=6cb6d4&icon_color=6cb6d4&text_color=c9d1d9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=majdjadalhaq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=6cb6d4&icon_color=6cb6d4&text_color=c9d1d9&rank_icon=github" />
 &nbsp;
 <img height="170" src="https://streak-stats.demolab.com/?user=majdjadalhaq&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6cb6d4&ring=1A6B8C&fire=6cb6d4&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=6cb6d4&sideLabels=6cb6d4&dates=8b949e" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdjadalhaq&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6cb6d4&text_color=c9d1d9&langs_count=6" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=majdjadalhaq&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6cb6d4&text_color=c9d1d9&langs_count=6" />
 
 <br><br>
 
