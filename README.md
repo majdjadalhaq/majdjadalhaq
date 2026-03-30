@@ -1,101 +1,137 @@
-<!-- 👋 Animated Welcome Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&width=700&lines=Hi+there!+I'm+Majd.;Junior+Full-Stack+Web+Developer+%F0%9F%92%BB;HackYourFuture+Graduate+%F0%9F%9A%80" alt="Typing Banner" />
-</p>
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=160&section=header&text=Majd%20Jadal%20Haq&fontSize=46&fontColor=ffffff&fontAlignY=52&desc=Full-Stack%20Developer%20%C2%B7%20Netherlands&descSize=15&descAlignY=73&descColor=a0c8e0&animation=fadeIn)
+
+</div>
+
+<br>
+
+```ts
+const majd = {
+  location  : "Netherlands",
+  education : "HackYourFuture · Cohort 54 · 8 modules · 7 months",
+  background: "Law → Code",
+  shipped   : ["BiCycleL", "ArtVista", "MovieVault"],
+  currently : ["Next.js", "Three.js", "AI Agents", "LLMs"],
+  portfolio : "https://protofolio-majd.vercel.app",
+}
+```
+
+A year ago I wrote my first variable. Today I have production code running on real servers, used by real people. I graduated from **HackYourFuture** — one of the most selective free coding programmes in the Netherlands — and built three live full-stack products across the complete stack. Before code, I studied Law. It taught me to think in systems, argue precisely, and never ship something I don't fully understand.
+
+<br>
 
 ---
 
-### 🧑‍💻 About Me
-```js
-const majd = {
-  name: "Majd",
-  role: "Junior Full-Stack Web Developer",
-  learning: ["React 19", "PostgreSQL", "Next.js", "AI Automation"],
-  tools: ["HTML", "CSS", "JavaScript", "React", "Node.js", "PostgreSQL", "Vite", "Tailwind", "Framer Motion"],
-  goal: "Build impactful products and grow as a developer 🚀"
-}
+## Featured Work
+
+<table>
+<tr>
+<td valign="top" width="55%">
+
+**[BiCycleL](https://bicyclel.nl)** &nbsp;·&nbsp; Second-hand bicycle marketplace, Netherlands
+
+Live MERN-stack platform serving real buyers and sellers. Built in a 4-person Agile team as my HackYourFuture graduation project — 581+ commits, production deployed.
+
+- Real-time messaging via Socket.IO — typing indicators, image & location sharing, unread counts
+- Full auth stack — Google OAuth, JWT, email verification, forgot-password flow
+- Interactive maps (Leaflet / OpenStreetMap), Cloudinary image uploads with in-browser crop
+- Admin dashboard — user management, listing moderation, report tracking
+- Cypress E2E + Jest unit tests across multiple 2-week Agile sprints
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<br>
+
+[![Live](https://img.shields.io/badge/Live_Site-bicyclel.nl-0F2240?style=for-the-badge&logo=vercel&logoColor=white)](https://bicyclel.nl)
+
+[![Repo](https://img.shields.io/badge/Source_Code-GitHub-1A6B8C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HackYourFutureProjects/c54-final-project-group-B)
+
+<br>
+
+`React 19` `Node.js` `MongoDB` `Socket.IO`
+`Express` `Leaflet` `Cloudinary` `Cypress`
+`Google OAuth` `JWT` `Tailwind CSS` `Vite`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>Other projects</strong></summary>
+<br>
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **ArtVista** | Art gallery exploration app — GSAP scroll animations, Framer Motion reveals, custom React hooks | React · GSAP · Framer Motion | [Live](https://artvista-pied.vercel.app) · [Repo](https://github.com/majdjadalhaq/artvista) |
+| **MovieVault** | Movie discovery app — pure Vanilla JS, no frameworks, async/await, TMDB REST API | Vanilla JS · Fetch API | [Live](https://majdjadalhaq.github.io/MovieValut/) · [Repo](https://github.com/majdjadalhaq/MovieValut) |
+
+<br>
+</details>
+
+---
+
+## Stack
+
+<div align="center">
+
+[![Core](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,express&theme=dark&perline=7)](https://protofolio-majd.vercel.app)
+
+[![Tools](https://skillicons.dev/icons?i=mongodb,postgres,tailwind,vite,git,github,jest,cypress&theme=dark&perline=8)](https://protofolio-majd.vercel.app)
+
+[![Exploring](https://skillicons.dev/icons?i=threejs,vercel&theme=dark&perline=4)](https://protofolio-majd.vercel.app)
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=majdjadalhaq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=6cb6d4&icon_color=6cb6d4&text_color=c9d1d9&rank_icon=github" />
+&nbsp;
+<img height="170" src="https://streak-stats.demolab.com/?user=majdjadalhaq&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6cb6d4&ring=1A6B8C&fire=6cb6d4&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=6cb6d4&sideLabels=6cb6d4&dates=8b949e" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majdjadalhaq&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6cb6d4&text_color=c9d1d9&langs_count=6" />
+
+<br><br>
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=majdjadalhaq&theme=github-compact&hide_border=true&bg_color=0d1117&color=6cb6d4&line=1A6B8C&point=6cb6d4&area=true&area_color=1A3557&radius=4)
+
+<br>
+
+![Snake Dark](https://raw.githubusercontent.com/majdjadalhaq/majdjadalhaq/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## Journey
+
+```
+Palestine       →   Law student. Analytical thinker. Built to argue systems.
+Netherlands     →   New country. New chapter. Starting from zero.
+HackYourFuture  ✓   Cohort 54 · 8 modules · 7 months · no shortcuts
+BiCycleL      [live] Production. Real users. The moment it became real.
+Now             →   Next.js · Three.js · AI Agents · LLMs
 ```
 
 ---
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-protofolio--majd.vercel.app-0F2240?style=for-the-badge&logo=safari&logoColor=white)](https://protofolio-majd.vercel.app/)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdjadalhaq/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say_Hello-1A6B8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majdhamde1901@gmail.com)
 
----
+<br>
 
-### 📊 Skills Progress
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
 
-| Skill        | Level                                                      |
-|--------------|------------------------------------------------------------|
-| HTML & CSS   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 100% 🔥                                |
-| JavaScript   | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  ⚡                                |
-| React        | 🟩🟩🟩🟩🟩🟩🟩🟧⬜⬜ 75%  ⚛️                                |
-| Node.js & DB | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60%  🌐                                |
-| Git & Github | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 80%  🐙                                |
-| UI/UX Design | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 70%  🎨                                |
- 
----
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majdjadalhaq&show_icons=true&theme=dark&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=majdjadalhaq&theme=dark" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=majdjadalhaq&theme=react-dark" />
-</p>
-
----
-
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=majdjadalhaq&theme=darkhub&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:majdhamde1901@gmail.com" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/majdjadalhaq/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/majdjadalhaq" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
----
-
-### 💬 Quote I Live By
-
-> _"Don't wait for opportunity. Create it."_ 🚀
-
----
-
-<!-- 🌊 Wave Divider -->
-<p align="center" style="margin-top:40px;">
-  <svg width="100%" height="100" viewBox="0 0 1440 320" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#0d1117" fill-opacity="1" d="M0,160L48,144C96,128,192,96,288,96C384,96,480,128,576,154.7C672,181,768,203,864,181.3C960,160,1056,96,1152,74.7C1248,53,1344,75,1392,85.3L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"/>
-  </svg>
-</p>
+</div>
