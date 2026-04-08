@@ -6,6 +6,20 @@
 
 <br>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-protofolio--majd.vercel.app-0F2240?style=for-the-badge&logo=safari&logoColor=white)](https://protofolio-majd.vercel.app/)
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1A6B8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdjadalhaq/)
+<br>
+[![Email](https://img.shields.io/badge/Email-Say_Hello-0F2240?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majdhamde1901@gmail.com)
+<br>
+[![BiCycleL](https://img.shields.io/badge/BiCycleL-Live-1A6B8C?style=for-the-badge&logo=vercel&logoColor=white)](https://bicyclel.nl)
+<br>
+[![ArtVista](https://img.shields.io/badge/ArtVista-Live-0F2240?style=for-the-badge&logo=vercel&logoColor=white)](https://artvista-pied.vercel.app)
+<br>
+[![MovieVault](https://img.shields.io/badge/MovieVault-Live-1A6B8C?style=for-the-badge&logo=github&logoColor=white)](https://majdjadalhaq.github.io/MovieValut/)
+
+<br>
+
 ```ts
 const majd = {
   location  : "Netherlands",
@@ -33,12 +47,17 @@ A year ago I wrote my first variable. Today I have production code running on re
 
 Live MERN-stack platform serving real buyers and sellers. Built in a 4-person Agile team as my HackYourFuture graduation project — 581+ commits, production deployed.
 
+<details>
+<summary><b>Some features</b></summary>
+<br>
+
 - Real-time messaging via Socket.IO — typing indicators, image & location sharing, unread counts
 - Full auth stack — Google OAuth, JWT, email verification, forgot-password flow
 - Interactive maps (Leaflet / OpenStreetMap), Cloudinary image uploads with in-browser crop
 - Admin dashboard — user management, listing moderation, report tracking
 - Cypress E2E + Jest unit tests across multiple 2-week Agile sprints
 
+</details>
 </td>
 <td valign="top" width="45%" align="center">
 
@@ -84,54 +103,24 @@ Live MERN-stack platform serving real buyers and sellers. Built in a 4-person Ag
 
 </div>
 
----
-
-## Stats
+## Pet
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=majdjadalhaq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=6cb6d4&icon_color=6cb6d4&text_color=c9d1d9&rank_icon=github" />
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com/?user=majdjadalhaq&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6cb6d4&ring=1A6B8C&fire=6cb6d4&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=6cb6d4&sideLabels=6cb6d4&dates=8b949e" />
-
-<br><br>
-
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=majdjadalhaq&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6cb6d4&text_color=c9d1d9&langs_count=6" />
-
-<br><br>
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=majdjadalhaq&theme=github-compact&hide_border=true&bg_color=0d1117&color=6cb6d4&line=1A6B8C&point=6cb6d4&area=true&area_color=1A3557&radius=4)
-
-<br>
 
 ![Snake Dark](https://raw.githubusercontent.com/majdjadalhaq/majdjadalhaq/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+## 🗺️ Journey
 
----
-
-## Journey
-
-```
-Palestine       →   Law student. Analytical thinker. Built to argue systems.
-Netherlands     →   New country. New chapter. Starting from zero.
-HackYourFuture  ✓   Cohort 54 · 8 modules · 7 months · no shortcuts
-BiCycleL      [live] Production. Real users. The moment it became real.
-Now             →   Next.js · Three.js · AI Agents · LLMs
-```
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-protofolio--majd.vercel.app-0F2240?style=for-the-badge&logo=safari&logoColor=white)](https://protofolio-majd.vercel.app/)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majdjadalhaq/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say_Hello-1A6B8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majdhamde1901@gmail.com)
+- <img src="https://img.shields.io/badge/-Palestine-1A6B8C?style=flat-square&logo=googlemaps&logoColor=white" height="20" alt="Palestine"> &nbsp;→&nbsp; *Law student. Analytical thinker. Built to argue systems.*
+- <img src="https://img.shields.io/badge/-Netherlands-1A6B8C?style=flat-square&logo=homeadvisor&logoColor=white" height="20" alt="Netherlands"> &nbsp;→&nbsp; *New country. New chapter. Starting from zero.*
+- <img src="https://img.shields.io/badge/-HackYourFuture-1A6B8C?style=flat-square&logo=knowledgebase&logoColor=white" height="20" alt="HackYourFuture"> &nbsp;✓&nbsp; *Cohort 54 · 8 modules · 7 months · no shortcuts*
+- <img src="https://img.shields.io/badge/-BiCycleL-1A6B8C?style=flat-square&logo=rocket&logoColor=white" height="20" alt="BiCycleL"> &nbsp;[live]&nbsp; *Production. Real users. The moment it became real.*
+- <img src="https://img.shields.io/badge/-Now-1A6B8C?style=flat-square&logo=sparkles&logoColor=white" height="20" alt="Now"> &nbsp;→&nbsp; *Python · Agent Flows · Agent Skills · Next.js · Three.js · LLMs*
 
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer)
 
 </div>
+
